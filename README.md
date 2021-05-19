@@ -17,3 +17,6 @@ M: Det er nemt at tilføje nye produkter til indkøbslisten, der er også lavet 
 S: App'en har en enkel liste, som er nem at overskue og nem at anvende. 
 C: Der kunne være lavet flere lister, samlet i en app. Jeg har dog valgt at fokusere på indkøbslisten, som løser en problemstilling ved min bedsteforældre. 
 W: Jeg har lavet listen så produkterne skal tilføjes flere gange. 
+
+Jeg har brugt følgende link, som inspiration. 
+https://github.com/IJ-Apps/Grocery-List-App-ListViews-
