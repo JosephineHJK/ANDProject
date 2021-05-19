@@ -1,6 +1,9 @@
 # ANDProject
 Eksamens Projekt
 
+YOUTUBE VIDEO
+https://youtu.be/oN1IjPnEoOk
+
 •	A brief description of the application and the motivation behind it.
 
 Vi har i løbet af det sidste år har meget lock down med corona, hvor vi har forholdt os meget derhjemme for at mindske spredningen af corona. Jeg har nogle bedsteforældre med dårlige lunger, som har været i risikogruppen under corona. Derved har det været vigtigt for dem, at de kan komme hurtigt ud og handle og hjem igen, så de ikke har været udsat for steder hvor man kan risikere at blive smittet. Derfor har jeg lavet en GroceryList app, som er nem for dem at anvende, både når produkter skal tilføjes, fjernes og duplikeres. 
@@ -20,3 +23,4 @@ W: Jeg har lavet listen så produkterne skal tilføjes flere gange.
 
 Jeg har brugt følgende link, som inspiration. 
 https://github.com/IJ-Apps/Grocery-List-App-ListViews-
+
